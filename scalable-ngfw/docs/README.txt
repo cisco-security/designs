@@ -37,8 +37,7 @@ Two Firepower4100 appliances in ASA cluster - Multiple contexts, all in routed f
 fpr4150-asa-master.cfg
 fpr4150-asa-slave.cfg
 
-Cisco Firepower NGFW - ASA App Playlist:
-https://www.youtube.com/playlist?list=PL_VvDNvGnyZ3JUoG8D4NBY-cTbiISb8Cc
+Cisco Firepower NGFW - ASA App Playlist: http://cs.co/ftd-on-firepower
 
 FPR4100 ASA App Cluster: (1) Overview: https://youtu.be/7XODTR3vP8E
 
@@ -51,8 +50,7 @@ Two Firepower4100 appliances in FTD cluster - BVIs in transparent firewall mode
 ----------------------------------------------------------------
 FTD devices are managed from FMC, and those configurations are shown in the GUI.
 
-Cisco Firepower NGFW – FTD App Playlist:
-https://www.youtube.com/playlist?list=PL_VvDNvGnyZ14_Ln06R_v6m3FrzCAXad3
+Cisco Firepower NGFW – FTD App Playlist: http://cs.co/asa-on-firepower
 
 FPR4100 FTD App Cluster: (1) Overview: https://youtu.be/lANuLtEIS-Q
 
