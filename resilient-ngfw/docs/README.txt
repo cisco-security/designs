@@ -26,12 +26,12 @@ To help with review of this setup, number of videos will be created on YouTube.
 
 Here are the configurations included:
 
-Two Nexus5000 switches in vPC (virtual port-channels match up to spanned port-channels on ASA/FTD)
+Two Nexus5000 switches in vPC (virtual port-channels match primary and secondary port-channels on ASA)
 -----------------------------------------------------------------------------------
 nexus5548-sw1.cfg
 nexus5548-sw2.cfg
 
-Two Firepower4100 appliances in ASA cluster - Multiple contexts, all in routed firewall mode
+Two Firepower4100 appliances in ASA failover - Multiple contexts, all in routed firewall mode
 -------------------------------------------------------------------------
 fpr4150-asa-primary.cfg
 fpr4150-asa-secondary.cfg
