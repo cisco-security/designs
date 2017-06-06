@@ -48,8 +48,13 @@ ftd_cluster_ngips_config.pdf.
 
 FTD devices are managed from FMC, and those configurations are shown in the GUI.
 
-Cisco Firepower NGFW – FTD App Playlist:
-https://www.youtube.com/playlist?list=PL_VvDNvGnyZ14_Ln06R_v6m3FrzCAXad3
+Cisco Firepower NGFW – ASA and FTD App Playlists:
+Cisco Firepower NGFW – FTD App Playlist: http://cs.co/asa-on-firepower
+Cisco Firepower NGFW - ASA App Playlist: http://cs.co/ftd-on-firepower
+
+FPR4100 FTD App Cluster NGIPS with ASA App Failover (1) Overview: https://youtu.be/-2AQt4ZxwmU
+
+FPR4100  FTD Cluster NGIPS with ASA HA (2) Data Link Resiliency: https://youtu.be/hngtZNNsyM0
 
 
 
