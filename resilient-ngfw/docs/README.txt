@@ -44,8 +44,15 @@ Two Firepower4150 appliances running standlone FTD apps - performing inline-IPS
 ------------------------------------------------------------------
 FTD devices are managed from FMC, and those configurations are shown in the GUI.
 
-Cisco Firepower NGFW – FTD App Playlist:
-https://www.youtube.com/playlist?list=PL_VvDNvGnyZ14_Ln06R_v6m3FrzCAXad3
+Cisco Firepower NGFW – ASA and FTD App Playlists:
+Cisco Firepower NGFW – FTD App Playlist: http://cs.co/asa-on-firepower
+Cisco Firepower NGFW - ASA App Playlist: http://cs.co/ftd-on-firepower
+
+FPR4100 ASA App Failover + FTD NGIPS (1) Overview: https://youtu.be/qqMzcSS31as
+
+FPR4100 ASA App Failover + FTD NGIPS (2) Link resiliency: https://youtu.be/dVSa8lJImnI
+
+FPR4100 ASA App Failover + FTD NGIPS (3) Appliance Resiliency: https://youtu.be/3tlMsNAxT84
 
 
 
